@@ -9,5 +9,3 @@ The results of the confusion matrices are shown below.
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_train.PNG" width=400>
 #### Testing Data Confusion Matrix
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_99.13%.PNG" width=400>
-
-
