@@ -14,6 +14,5 @@ The results of the training history and confusion matrices are shown below.
 
 ### Testing Data Confusion Matrix
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_99.13.PNG" width=400>
-
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/1_score_99.13.PNG" width=400>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/f1_score_99.13.PNG" width=400>
 
