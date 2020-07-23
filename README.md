@@ -7,4 +7,6 @@ The dataset is divided into 5 different classes namely, Very Low, Low, Moderate,
 The results of the confusion matrices are shown below.
 ### Training Data Confusion Matrix
 ![](images/Confusion_Matrix_train.PNG)
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_train.PNG" width=700>
+
 
