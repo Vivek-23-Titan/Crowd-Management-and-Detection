@@ -17,14 +17,14 @@ The results of the training history and confusion matrices are shown below.
 For the purpose of person detection, pre-trained pytorch version of YOLOv4 (source: https://github.com/WongKinYiu/PyTorch_YOLOv4) has been emplyed.
 
 ### Results (In increasing order of population density)
-#### Very Low
+#### Very Low (3 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_3.jpg" width=400>
-#### Low
+#### Low (11 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Low_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Low_0.2_11.jpg" width=400>
-#### Moderate
+#### Moderate (20 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Moderate_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Moderate_0.2_20.jpg" width=400>
-#### High
+#### High (23 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_23.jpg" width=400>
-#### Very High
+#### Very High (18 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_18.jpg" width=400>
 * Notice that the Very High class consists of severely occluded individuals and hence making person detection difficult. Therefore, person detection in this senario does not yield the desired results and thus this class is only defined by classification results.
