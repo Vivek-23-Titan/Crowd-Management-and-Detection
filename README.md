@@ -27,3 +27,4 @@ For the purpose of person detection, pre-trained pytorch version of YOLOv4 (sour
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_23.jpg" width=400>
 #### Very High
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_18.jpg" width=400>
+* Notice that the Very High class consists of severely occluded individuals and hence making person detection difficult.
