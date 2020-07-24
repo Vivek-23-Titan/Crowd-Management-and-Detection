@@ -16,7 +16,7 @@ The results of the training history and confusion matrices are shown below.
 ## Crowd Detection
 For the purpose of person detection, YOLOv4 has been emplyed.
 
-### Results (In the increasing order of population density)
+### Results (In increasing order of population density)
 #### Very Low
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_3.jpg" width=400>
 #### Low
