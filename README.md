@@ -17,15 +17,15 @@ The results of the training history and confusion matrices are shown below.
 For the purpose of person detection, pre-trained [pytorch](https://github.com/WongKinYiu/PyTorch_YOLOv4) version of YOLOv4 has been emplyed.
 
 ### Results (In increasing order of population density)
-#### Very Low (3 detections)
+#### Class 0: Very Low (3 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryLow_0.2_3.jpg" width=400>
-#### Low (11 detections)
+#### Class 1: Low (11 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Low_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Low_0.2_11.jpg" width=400>
-#### Moderate (20 detections)
+#### Class 2: Moderate (20 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Moderate_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/Moderate_0.2_20.jpg" width=400>
-#### High (23 detections)
+#### Class 3: High (23 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/High_0.2_23.jpg" width=400>
-#### Very High (18 detections)
+#### Class 4: Very High (18 detections)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_og.jpg" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/VeryHigh_0.2_18.jpg" width=400>
 * Notice that the Very High class consists of **severely occluded individuals** and hence making person detection difficult. Therefore, person detection in this senario does not yield the desired results and thus this class is only defined by classification results.
 
