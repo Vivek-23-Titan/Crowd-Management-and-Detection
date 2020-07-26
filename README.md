@@ -31,3 +31,13 @@ For the purpose of person detection, pre-trained pytorch version of YOLOv4 (sour
 
 #### Box Plot (Classes in increasing order on X-axis and People detected on Y-axis)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Images/BoxPlot.png" width=400>
+## Citation
+
+```
+@article{bochkovskiy2020yolov4,
+  title={{YOLOv4}: Optimal Speed and Accuracy of Object Detection},
+  author={Bochkovskiy, Alexey and Wang, Chien-Yao and Liao, Hong-Yuan Mark},
+  journal={arXiv preprint arXiv:2004.10934},
+  year={2020}
+}
+```
