@@ -41,3 +41,6 @@ For the purpose of person detection, pre-trained [pytorch](https://github.com/Wo
   year={2020}
 }
 ```
+## Acknowledgements
+
+* https://github.com/WongKinYiu/PyTorch_YOLOv4
