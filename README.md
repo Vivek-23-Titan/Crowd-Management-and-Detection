@@ -1,5 +1,5 @@
 # Crowd-Management-and-Detection
-The purpose of this repo is to improve the crowd density classification scores and detect/estimate number of people in crowded places such as commutators traveling via bus.
+The purpose of this repository is to improve the crowd density classification scores and detect/estimate number of people in crowded places such as commutators traveling via bus.
 ## Dataset
 The dataset consists of a total of 6000 images i.e., 1200 images per class, out of which for each class 900 are used for training and remaining 300 for testing purpose.
 The dataset is divided into 5 different classes namely, Very Low, Low, Moderate, High and Very High crowd density levels.
@@ -44,5 +44,5 @@ For the purpose of person detection, pre-trained [pytorch](https://github.com/Wo
 }
 ```
 ## Acknowledgements
-
 * https://github.com/WongKinYiu/PyTorch_YOLOv4
+* https://www.tensorflow.org/guide/keras/transfer_learning
