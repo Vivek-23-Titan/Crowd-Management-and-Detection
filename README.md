@@ -4,7 +4,9 @@ The purpose of this repository is to improve the crowd density classification sc
 The dataset consists of a total of 6000 images i.e., 1200 images per class, out of which for each class 900 are used for training and remaining 300 for testing purpose.
 The dataset is divided into 5 different classes namely, Very Low, Low, Moderate, High and Very High crowd density levels.
 ## Code
-The Code is available in the Jupyter Notebook format. There are 2 different notebooks provided, one for [crowd density classification](https://github.com/Vivek-23-Titan/Crowd-Management-and-Detection/blob/master/Xception_Crowd_Control.ipynb) and other for [people detection](https://github.com/Vivek-23-Titan/Crowd-Management-and-Detection/blob/master/Person_Detection_in_Crowd_YOLOv4.ipynb).
+The Code is available in the Jupyter Notebook format. There are 2 different notebooks provided:
+* [crowd density classification](https://github.com/Vivek-23-Titan/Crowd-Management-and-Detection/blob/master/Xception_Crowd_Control.ipynb)
+* [people detection](https://github.com/Vivek-23-Titan/Crowd-Management-and-Detection/blob/master/Person_Detection_in_Crowd_YOLOv4.ipynb).
 ## Results
 The results of the training history and confusion matrices are shown below.
 
