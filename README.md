@@ -14,9 +14,11 @@ The results of the training history and confusion matrices are shown below.
 ### Training History
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Training_Curve_98.47.PNG" width=400>
 
-### Confusion Matrix of Testing (f1-scores) and Training Data respectively
+### Confusion Matrix of Testing (f1-scores; 99.13% accuracy) and Training Data respectively
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_99.13.PNG" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/Confusion_Matrix_train.PNG" width=400>
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crowd-Management-and-Detection/master/images/f1_score_99.13.PNG" width=400>
+
+* The obtained performance is a 6% improvement with 99.13% as overall accuracy as opposed to 93.09% [IEEE Paper](https://ieeexplore.ieee.org/document/9155692).
 
 ## Person Detection in Crowd
 For the purpose of person detection, pre-trained [pytorch](https://github.com/WongKinYiu/PyTorch_YOLOv4) version of YOLOv4 has been emplyed.
