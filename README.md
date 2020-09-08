@@ -49,11 +49,11 @@ For the purpose of person detection, pre-trained [pytorch](https://github.com/Wo
 }
 
 @INPROCEEDINGS{9155692, 
-author={A. V. {Meghana} and V. {Sarode} and D. {Tambade} and A. {Marathe} and N. {Charniya}},
-booktitle={2020 International Conference on Electronics and Sustainable Communication Systems (ICESC)},
-title={Automated Crowd Management in Bus Transport Service},
-year={2020},
-volume={},  number={},  pages={104-109},
+  author={A. V. {Meghana} and V. {Sarode} and D. {Tambade} and A. {Marathe} and N. {Charniya}},
+  booktitle={2020 International Conference on Electronics and Sustainable Communication Systems (ICESC)},
+  title={Automated Crowd Management in Bus Transport Service},
+  year={2020},
+  volume={},  number={},  pages={104-109},
 }
 ```
 ## Acknowledgements
