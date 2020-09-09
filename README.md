@@ -6,7 +6,7 @@ The dataset is divided into 5 different classes namely, Very Low, Low, Moderate,
 ## Code
 The Code is available in the Jupyter Notebook format. There are 2 different notebooks provided:
 * *Crowd density classification: [Jupyter Notebook](https://colab.research.google.com/github/Vivek-23-Titan/Crowd-Management-and-Detection/blob/master/Xception_Crowd_Control.ipynb).*
-* *People detection: [Jupyter Notebook](https://colab.research.google.com/github/Vivek-23-Titan/Person_Detection_in_Crowd_YOLOv4.ipynb)*
+* *People detection: [Jupyter Notebook](https://colab.research.google.com/github/Vivek-23-Titan/Person_Detection_in_Crowd_YOLOv4.ipynb).*
 ## Results
 The results of the training history and confusion matrices are shown below.
 
